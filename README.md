@@ -4,7 +4,7 @@
 
 ## Videos
 
-### Day one
+### Day one - main hall
 
 - [Day one full stream](https://www.youtube.com/watch?v=Yo9o5nDTAAQ)
 - [Ethereum Team Introduction](https://youtu.be/Yo9o5nDTAAQ?t=5m28s)
@@ -25,10 +25,13 @@
 - [ZoKrates – A Toolbox for zkSNARKs on Ethereum](https://youtu.be/Yo9o5nDTAAQ?t=7h36m54s)
 - [Designing Maximally Verifying Light Clients and Sharding](https://youtu.be/Yo9o5nDTAAQ?t=7h55m35s)
 
-### Day two
+### Day two - main hall
 
 ...coming soon...
 
+### Day three - main hall
+
+...coming soon...
 
 ## Links
 - TrueBit - [https://truebit.io/](https://truebit.io/)

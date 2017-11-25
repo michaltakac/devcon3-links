@@ -27,12 +27,57 @@
 
 ### Day two - main hall
 
-...coming soon...
+- [Developers, Developers, Developers – Ethereum for all your networks!](https://youtu.be/8sXzxkODH-c?t=9s)
+- [Introduction to WALLETH – the Ethereum Android Wallet](https://youtu.be/8sXzxkODH-c?t=19m55s)
+- [Status – Ethereum at the edges of the Network](https://youtu.be/8sXzxkODH-c?t=34m39s)
+- [Evolving devp2p](https://youtu.be/8sXzxkODH-c?t=47m30s)
+- [The EVM: Cleaner, Meaner, and Closer to the Metal](https://youtu.be/8sXzxkODH-c?t=1h20m33s)
+- [PANEL: Evolving the EVM](https://youtu.be/8sXzxkODH-c?t=1h45m47s)
+- [Ethereum Security](https://youtu.be/8sXzxkODH-c?t=2h12m15s)
+- [Swarm Development Update](https://youtu.be/aMs0wAFIu7I?t=8s)
+- [Scalable Responsive Đapps with Swarm and ENS](https://youtu.be/aMs0wAFIu7I?t=34m34s)
+- [The Future of Token Contracts: MiniMe, Governance, LiquidPledging & ERC223](https://youtu.be/aMs0wAFIu7I?t=1h1m35s)
+- [Designing Future-proof Smart Contract Systems](https://youtu.be/aMs0wAFIu7I?t=1h19m15s)
+- [Exploring the Ethereum Blockchain](https://youtu.be/aMs0wAFIu7I?t=1h35m36s)
+- [Panel: USCC – The Underhanded Solidity Coding Contest](https://youtu.be/aMs0wAFIu7I?t=2h30m53s)
+- [Panel: Formal Verification](https://youtu.be/aMs0wAFIu7I?t=2h57m1s)
+- [Hardening Smart Contracts with Hardware Security](https://youtu.be/aMs0wAFIu7I?t=3h23m1s)
+- [The Raiden Network](https://youtu.be/aMs0wAFIu7I?t=3h45m59s)
+- [Towards a Permanent ENS Registrar](https://youtu.be/aMs0wAFIu7I?t=4h5m34s)
 
 ### Day three - main hall
 
-...coming soon...
+- [Intro to Solidity (2017 edition)](https://youtu.be/k42YNyvG8CU?t=35s)
+- [Flexibility in Solidity](https://youtu.be/k42YNyvG8CU?t=17m39s)
+- [Mist: towards a decentralized, secure architecture](https://youtu.be/k42YNyvG8CU?t=37m14s)
+- [Dapp Development using Remix, Mist, and Geth](https://youtu.be/k42YNyvG8CU?t=1h11m41s)
+- [DappHubb](https://youtu.be/k42YNyvG8CU?t=1h31m14s)
+- [Real-World Smart Contract Development Lessons](https://youtu.be/k42YNyvG8CU?t=1h51m21s)
+- [MetaMask: Dissecting the fox](https://youtu.be/k42YNyvG8CU?t=2h12m39s)
+- [Web3.js 1.0](https://youtu.be/FPHXbJPVVaA?t=7s)
+- [Missing Links in the Ethereum Stack](https://youtu.be/FPHXbJPVVaA?t=19m48s)
+- [EthJS – Precision Ethereum Javascript Architecture for dApps](https://youtu.be/FPHXbJPVVaA?t=43m20s)
+- [Panel: Development Frameworks](https://youtu.be/FPHXbJPVVaA?t=1h1m38s)
+- [Uport – Usable Key Management for Multiple Identities Across Multiple Chains](https://youtu.be/FPHXbJPVVaA?t=1h38m23s)
+- [Data is the Missing Link](https://youtu.be/FPHXbJPVVaA?t=2h29m41s)
+- [Secure Decentralized Oracles: Applying Intel SGX and TownCrier to external data, payments and off-chain computation](https://youtu.be/FPHXbJPVVaA?t=2h49m16s)
+- [Scalable Onchain Verification for Authenticated Data Feeds and Offchain Computations](https://youtu.be/FPHXbJPVVaA?t=3h9m47s)
+- [Snopes meets Mechanical Turk on a Blockchain: Reality Keys, On-chain Truth Verification and Subjectivocracy](https://youtu.be/FPHXbJPVVaA?t=3h29m30s)
+- [Mind the Gap: Application-driven evaluation of Smart Contract languages](https://youtu.be/FPHXbJPVVaA?t=3h49m37s)
 
 ## Links
+
 - TrueBit - [https://truebit.io/](https://truebit.io/)
 - ZoKrates - [https://github.com/JacobEberhardt/ZoKrates](https://github.com/JacobEberhardt/ZoKrates)
+- [Parity Light Protocol](https://github.com/paritytech/parity/wiki/The-Parity-Light-Protocol-(PIP))
+
+## Byzantium changes
+
+- Addition of ‘REVERT’ opcode, which permits error handling without consuming all gas (EIP 140)
+- Transaction receipts now include a status field to indicate success or failure EIP 658)
+- Elliptic curve addition and scalar multiplication on alt_bn128 (EIP 196) and pairing checks (EIP 197), permitting ZK-Snarks and other cryptographic mathemagic™
+- Support for big integer modular exponentiation (EIP 198), enabling RSA signature verification and other cryptographic applications
+- Support for variable length return values (EIP 211)
+- Addition of the ‘STATICCALL’ opcode, permitting non-state-changing calls to other contracts (EIP 214)
+- Changes to the difficulty adjustment formula to take uncles into account (EIP 100)
+- Delay of the ice age / difficulty bomb by 1 year, and reduction of block reward from 5 to 3 ether (EIP 649)

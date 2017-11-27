@@ -2,6 +2,19 @@
 
 [Agenda](https://ethereumfoundation.org/devcon3/agenda/)
 
+---
+
+<p align="center">
+  
+[Day one](#day-one---main-hall) • 
+[Day two](#day-two---main-hall) • 
+[Day three](#day-three---main-hall) • 
+[Day four](#day-four---main-hall) • 
+[Links](#links) • 
+[Byzantium changes](#byzantium-changes)
+
+</p>
+
 ## Videos
 
 ### Day one - main hall

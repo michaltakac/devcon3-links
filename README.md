@@ -110,6 +110,8 @@
 - Zk-SNARKs: Under the Hood (by Vitalik Buterin) - [https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 - Parity Light Protocol - [https://github.com/paritytech/parity/wiki/The-Parity-Light-Protocol-(PIP)](https://github.com/paritytech/parity/wiki/The-Parity-Light-Protocol-(PIP))
 - Web3 1.0 docs - [http://web3js.readthedocs.io/en/1.0/getting-started.html](http://web3js.readthedocs.io/en/1.0/getting-started.html)
+- DappHub - [https://dapphub.com](https://dapphub.com)
+- DappHub Tools - [https://dapp.tools](https://dapp.tools)
 
 ## Byzantium changes
 

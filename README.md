@@ -102,6 +102,7 @@
 ## Links
 
 - Coin Center [https://coincenter.org/](https://coincenter.org/)
+- "How do token sales fit with securities regulations?" - [https://coincenter.org/entry/how-do-token-sales-fit-with-securities-regulations](https://coincenter.org/entry/how-do-token-sales-fit-with-securities-regulations)
 - Casper implementation guide - [https://github.com/ethereum/research/wiki/Casper-Version-1-Implementation-Guide](https://github.com/ethereum/research/wiki/Casper-Version-1-Implementation-Guide)
 - Proof-of-Stake FAQ [https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 - Byzantium Fault Tolerance (BFT) - [https://en.wikipedia.org/wiki/Byzantine_fault_tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)

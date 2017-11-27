@@ -67,6 +67,8 @@
 
 ## Links
 
+- Casper implementation guide - [https://github.com/ethereum/research/wiki/Casper-Version-1-Implementation-Guide](https://github.com/ethereum/research/wiki/Casper-Version-1-Implementation-Guide)
+- Proof-of-Stake FAQ [https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 - TrueBit - [https://truebit.io/](https://truebit.io/)
 - ZoKrates - [https://github.com/JacobEberhardt/ZoKrates](https://github.com/JacobEberhardt/ZoKrates)
 - "ZoKrates Seeks to Bring Best of Zcash..." - [https://www.coindesk.com/zokrates-seeks-bring-best-zcash-ethereum-devcon-debut/](https://www.coindesk.com/zokrates-seeks-bring-best-zcash-ethereum-devcon-debut/)

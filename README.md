@@ -65,6 +65,27 @@
 - [Snopes meets Mechanical Turk on a Blockchain: Reality Keys, On-chain Truth Verification and Subjectivocracy](https://youtu.be/FPHXbJPVVaA?t=3h29m30s)
 - [Mind the Gap: Application-driven evaluation of Smart Contract languages](https://youtu.be/FPHXbJPVVaA?t=3h49m37s)
 
+### Day four - main hall
+
+-[Whisper: Achieving Darkness](https://youtu.be/vXVcuWvR5Z0?t=19s)
+-[Using Whisper and IPFS to improve customer experience in a P2P marketplace](https://youtu.be/vXVcuWvR5Z0?t=24m24s)
+-[The Data Mechanics of Saving the Planet](https://youtu.be/vXVcuWvR5Z0?t=44m1s)
+-[Decentralised Autonomous Organization: Integral Platform for Climate Initiatives](https://youtu.be/vXVcuWvR5Z0?t=1h1s)
+-[How crypto payroll can improve the plight of temporary workers](https://youtu.be/vXVcuWvR5Z0?t=1h15m56s)
+-[Blockchain for Humanitarian Assistance](https://youtu.be/vXVcuWvR5Z0?t=1h23m18s)
+-[IDbox – Cost efficient device for self-sovereign identity](https://youtu.be/vXVcuWvR5Z0?t=1h45m8s)
+-[Bringing the Non-crypto World onto Ethereum through Social Impact](https://youtu.be/vXVcuWvR5Z0?t=2h4m53s)
+-[The Colony Reputation Protocol: a verifiable, scalable reputation system](https://youtu.be/ugbRyZSPfYE?t=30s)
+-[Kleros: Building a decentralized court system to arbitrate smart contracts](https://youtu.be/ugbRyZSPfYE?t=21m5s)
+-[Building a decentralized sharing economy on top of Ethereum](https://youtu.be/ugbRyZSPfYE?t=41m25s)
+-[JAAK: A New Engine to Power the Web of Content](https://youtu.be/ugbRyZSPfYE?t=1h1m56s)
+-[The Blockchain Virus: Can a blockchain pay to replicate?](https://youtu.be/ugbRyZSPfYE?t=1h14m45s)
+-[Dai Stablecoin](https://youtu.be/ugbRyZSPfYE?t=1h37m40s)
+-[Designing IoT Frameworks Using Ethereum](https://youtu.be/ugbRyZSPfYE?t=2h30m17s)
+-[The Energy Blockchain in 20 Minutes](https://youtu.be/ugbRyZSPfYE?t=2h51m6s)
+-[Protecting your Privacy within the Blockchain Ecosystem](https://youtu.be/ugbRyZSPfYE?t=3h13m20s)
+-[AKASHA: Unveiling The Next Experiment](https://youtu.be/ugbRyZSPfYE?t=3h31m34s)
+
 ## Links
 
 - Casper implementation guide - [https://github.com/ethereum/research/wiki/Casper-Version-1-Implementation-Guide](https://github.com/ethereum/research/wiki/Casper-Version-1-Implementation-Guide)
